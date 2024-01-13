@@ -25,12 +25,12 @@ WebDriver Setup:
 
 Set up the appropriate WebDriver (e.g., ChromeDriver, GeckoDriver) for your browser.
 #### How to Run the Program
-Clone the Repository:
+-Clone the Repository:
 
 Clone this repository to your local machine.
-Set Up Dependencies:
+-Set Up Dependencies:
 
 Ensure you have the required dependencies, including Java, Selenium WebDriver, and the appropriate WebDriver for your browser.
-Run the Program:
+-Run the Program:
 
 Execute the main Java program (PizzaMain.java) to start the automated pizza ordering process.
