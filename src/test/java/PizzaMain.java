@@ -1,5 +1,4 @@
 package pizza_page_selenium.src.test.java;
-
 import com.google.common.util.concurrent.Uninterruptibles;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.Alert;
@@ -12,7 +11,6 @@ import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-
 import java.util.concurrent.TimeUnit;
 
 public class PizzaMain {
